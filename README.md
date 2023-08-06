@@ -31,5 +31,5 @@ Week Wise Project Diagrams :
 
 - [Windows Navigation Diagram](https://github.com/SakibHossain9999/Online_Art_Gallery_System_BRACU_CSE471_System-Design-and-Analysis/blob/main/Weekly%20Project%20Diagrams/8.1%20Windows%20Navigation%20Diagram.pdf)
 
-- Data Flow Diagram(DFD) : [Level 0 (Context Diagram)](https://github.com/SakibHossain9999/Online_Art_Gallery_System_BRACU_CSE471_System-Design-and-Analysis/blob/main/Weekly%20Project%20Diagrams/9.1%20DFD%20Level-0.pdf), [Level](https://github.com/SakibHossain9999/Online_Art_Gallery_System_BRACU_CSE471_System-Design-and-Analysis/blob/main/Weekly%20Project%20Diagrams/9.2%20DFD%20Level-1.pdf)
+- Data Flow Diagram(DFD) : [Level 0 (Context Diagram)](https://github.com/SakibHossain9999/Online_Art_Gallery_System_BRACU_CSE471_System-Design-and-Analysis/blob/main/Weekly%20Project%20Diagrams/9.1%20DFD%20Level-0.pdf), [Level 1](https://github.com/SakibHossain9999/Online_Art_Gallery_System_BRACU_CSE471_System-Design-and-Analysis/blob/main/Weekly%20Project%20Diagrams/9.2%20DFD%20Level-1.pdf)
 
