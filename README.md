@@ -1,4 +1,10 @@
-# Online_Art_Gallery_System-_BRACU_CSE471_System-Design-and-Analysis
+# Online_Art_Gallery_System
+
+**Course Name: System Design and Analysis**
+
+**Course Code: CSE471**
+
+**Institution: BRAC University**
 
 Group Members :
 
